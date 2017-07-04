@@ -1,3 +1,3 @@
-# 2017_MathorCup Undergraduate Mathematical Modeling Challenge Contest
+# 2017_MathorCup Mathematical Modeling Challenge Contest
 
 ## First Class Prize
